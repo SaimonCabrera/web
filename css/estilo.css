@@ -1,0 +1,169 @@
+/*Header */
+.alinhar{
+  text-align: center;
+}
+#cabeca{
+  font-family: "Bebas Neue";
+  font-size: 25px;
+  letter-spacing: 3px;
+}
+.color{
+  color: #4470bb;
+}
+footer{
+  background-color:#081215;
+  color: white;
+}
+/*Section*/
+
+#menu{
+
+}
+.menu {
+    background-color: white;
+    font-family: "Ubuntu";
+    font-size: 30px;
+    font-weight: 700;
+    border: 1px solid #eee;
+    border-bottom: 3px solid #ddd;
+    padding: 10px 20% 10px 5%;
+    margin: 2% 2% 1% 1%;
+}
+.subItens {
+    background-color: white;
+    font-family: "Source Sans Pro";
+    font-size: 25px;
+    font-weight: 600;
+    padding: 8px 8px 8px 20px;
+    border: 1px solid #eee;
+    border-bottom: 3px solid #ddd;
+    margin: 18px 30% 12px 5%;
+}
+.menu2 {
+    background-color: white;
+    font-family: "Ubuntu";
+    font-size: 22px;
+    font-weight: 700;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    border-bottom: 3px solid #ddd;
+    padding: 10px 15% 10px 5%;
+    margin: 2% 5% 1% 1%;
+}
+.subItens2 {
+    background-color: white;
+    font-family: "Source Sans Pro";
+    font-size: 18px;
+    font-weight: 600;
+    padding: 8px 8px 8px 20px;
+    border: 1px solid #eee;
+    border-radius: 5px;
+    border-bottom: 3px solid #ddd;
+    margin: 18px 30% 12px 5%;
+}
+a{
+    color: #00f5fd;
+}
+.verde{
+    background-color: #4470bb;
+}
+.menu-orientadores{
+    padding-left: 1%;
+    margin-left: 5%;
+}
+h1{
+    font-family: "Source Sans Pro";
+    margin-top: 1%;
+    padding-top: 5%;
+    padding-left: 5%;
+    color: white;
+    margin-right: 80%;
+}
+.titulo{
+    margin-right: 10%;
+}
+.tabelas{
+    padding-left: 1%;
+    margin-left: 5%;
+    margin-right: 20%;
+
+}
+td{
+    background-color: white;
+}
+th{
+    background-color: white;
+}
+.branco{
+    background-color: white;
+}
+h2{
+    font-family: "Source Sans Pro";
+    margin-top: 1%;
+    padding-top: 5%;
+    padding-left: 5%;
+    color: white;
+    margin-right: 80%;
+}
+h3{
+    padding-left: 5%;
+    background-color: white;
+}
+.paragrafo{
+    color: white;
+    padding-left: 5%;
+    padding-top: 1%;
+    font-size: 20px;
+}
+p{
+    text-align: justify;
+}
+.texto{
+    padding-left: 1%;
+    padding-right: 15%;
+    padding-top: 1%;
+}
+#menu {
+    background-color: #4470bb;
+}
+.bloco-main {
+    padding: 2.5% 5% 1% 2.5%;
+}
+
+
+
+a.gflag {
+  vertical-align: middle;
+  font-size: 24px;
+  padding: 1px 0;
+  background-repeat: no-repeat;
+  background-image: url(//gtranslate.net/flags/24.png);
+}
+
+a.gflag img {
+  border: 0;
+}
+
+a.gflag:hover {
+  background-image: url(//gtranslate.net/flags/24a.png);
+}
+
+#goog-gt-tt {
+  display: none !important;
+}
+
+.goog-te-banner-frame {
+  display: none !important;
+}
+
+.goog-te-menu-value:hover {
+  text-decoration: none !important;
+}
+
+body {
+  top: 0 !important;
+}
+
+#google_translate_element2 {
+  display: none !important;
+}
